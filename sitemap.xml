@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://lifion.com/index.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lifion.com/assets/spaceman-go-fish.png</loc>
+    <lastmod>2016-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lifion.com/images/lifion-logo-small.png</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lifion.com/assets/spaceman-go-fish.gif</loc>
+    <lastmod>2016-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lifion.com/images/lifion-logo-small130x42.png</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lifion.com/images/lifion-logo-small130x42_2x.png</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lifion.com/images/lifion-logo-small_2x.png</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

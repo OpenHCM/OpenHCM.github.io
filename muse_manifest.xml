@@ -1,0 +1,29 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="lifion.com" resolutions="1x,2x" timestamp="1480918330821">
+  <folder name="css">
+    <file name="site_global.css" crc="157556101"/>
+    <file name="index.css" crc="3857411041" ref="index"/>
+    <file name="nomq_index.css" crc="404681212" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="spaceman-go-fish.gif" crc="3828334205" seo="true" mt="1480913633000"/>
+    <file name="spaceman-go-fish.png" crc="4084154047" seo="true" mt="1480913633000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4014455030" ref="index"/>
+    <file name="lifion-logo-small.png" crc="292782792" seo="true" ref="index"/>
+    <file name="lifion-logo-small_2x.png" crc="4097800615" seo="true" ref="index"/>
+    <file name="lifion-logo-small130x42.png" crc="4173088890" seo="true" ref="index"/>
+    <file name="lifion-logo-small130x42_2x.png" crc="4097800615" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4074235675" seo="true" mt="1480918280341" redirect="true"/>
+</manifest>
